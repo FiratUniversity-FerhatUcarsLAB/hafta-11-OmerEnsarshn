@@ -24,5 +24,8 @@ public class Exercise4_3 {
 }
 
 
+Programın Tam Çıktısı: 
+No, I wug.
+You wugga wug.
+I wug.
 
-    
