@@ -21,3 +21,11 @@ public class Exercise4_2 {
         }
     }
 }
+
+
+baffle metoduna ilk gönderilen blimp parametresi → "rattle".
+
+ik
+rattle
+ping zoop
+boo-wa-ha-ha
